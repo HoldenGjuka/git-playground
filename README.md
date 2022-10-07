@@ -4,6 +4,7 @@
 
 ## Tracking commands:
 
+0. git help \[command]
 1. git status (shows staged files)
 2. git branch (shows branches)
 > - append \[branchname] to create a new local branch 
@@ -11,6 +12,7 @@
 3. git checkout \[branchname]
 4. git merge \[branchname]
 > - Merges the branchname branch into the active branch
+5. git push -u origin \[branchname]
 
 
 ## Notes:
