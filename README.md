@@ -14,6 +14,10 @@
 > - Merges the branchname branch into the active branch
 5. git push -u origin \[branchname]
 > - Pushes a new remote branch from local (creates a new remote branch)
+6. git checkout origin/main
+> - Make experimental changes and commit them, and discard by switching to another
+> > branch or use the switch command to save the commits to a new branch.
+7. git switch -c \[newbranchname]
 
 
 ## Notes:
