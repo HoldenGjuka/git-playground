@@ -5,8 +5,10 @@
 ## Tracking commands:
 
 1. git status (shows staged files)
-2. 
-3. 
+2. git branch (shows branches)
+  - append \[branchname] to create a new local branch 
+  - asterisk next to listed branch name mean this is the active branch
+3. git checkout \[branchname]
 
 
 
@@ -15,5 +17,5 @@
 
 ## Resources
 - https://www.collectiveray.com/images/2021/05/markdown-cheat-sheet-basic-elements.jpeg
-- 
+- https://www.markdownguide.org/basic-syntax
 - 
