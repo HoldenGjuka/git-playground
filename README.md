@@ -13,6 +13,7 @@
 4. git merge \[branchname]
 > - Merges the branchname branch into the active branch
 5. git push -u origin \[branchname]
+> - Pushes a new remote branch from local (creates a new remote branch)
 
 
 ## Notes:
