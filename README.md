@@ -2,7 +2,8 @@
 
 ### Author: Holden Gjuka
 
-Tracking commands
+Tracking commands:
+
 git status (shows staged files)
 
 
