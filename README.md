@@ -11,7 +11,7 @@
 
 
 ## Notes:
-- Initial push only sends the last of the commits
+- Initial push sends all of the commits made
 
 ## Resources
 - https://www.collectiveray.com/images/2021/05/markdown-cheat-sheet-basic-elements.jpeg
