@@ -21,6 +21,6 @@
 - Switch b
 
 ## Resources
-- [Rudimentary Markdown Cheat Sheet](Syntaxhttps://www.collectiveray.com/images/2021/05/markdown-cheat-sheet-basic-elements.jpeg)
+- [Rudimentary Markdown Syntax Cheat Sheet](https://www.collectiveray.com/images/2021/05/markdown-cheat-sheet-basic-elements.jpeg)
 - [Markdown Basic Syntax Doc](https://www.markdownguide.org/basic-syntax)
 - [.gitignore cheat sheet](https://github.com/kenmueller/gitignore)
