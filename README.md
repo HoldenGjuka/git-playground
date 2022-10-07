@@ -2,7 +2,7 @@
 
 ### Author: Holden Gjuka
 
-Tracking commands:
+## Tracking commands:
 
 1. git status (shows staged files)
 2. 
@@ -12,3 +12,8 @@ Tracking commands:
 
 ## Notes:
 - Initial push only sends the last of the commits
+
+## Resources
+- https://www.collectiveray.com/images/2021/05/markdown-cheat-sheet-basic-elements.jpeg
+- 
+- 
