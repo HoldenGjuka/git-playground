@@ -4,7 +4,9 @@
 
 Tracking commands:
 
-git status (shows staged files)
+1. git status (shows staged files)
+2. 
+3. 
 
 
 
