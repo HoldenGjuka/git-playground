@@ -14,16 +14,21 @@
 > - Merges the branchname branch into the active branch
 5. git push -u origin \[branchname]
 > - Pushes a new remote branch from local (creates a new remote branch)
-6. git checkout origin/main
+6. git push origin --delete \[remotebranchname]
+7. git checkout origin/main
 > - Make experimental changes and commit them, and discard by switching to another branch or use the switch command to save the commits to a new branch. (Detached head)
-7. git switch -c \[newbranchname]
+8. git switch -c \[newbranchname]
 
 
 ## Notes:
 - Initial push sends all of the commits made
-- Switch b
 
 ## Resources
 - [Rudimentary Markdown Syntax Cheat Sheet](https://www.collectiveray.com/images/2021/05/markdown-cheat-sheet-basic-elements.jpeg)
 - [Markdown Basic Syntax Doc](https://www.markdownguide.org/basic-syntax)
 - [.gitignore cheat sheet](https://github.com/kenmueller/gitignore)
+
+## Look Into
+- git reset
+- git cherry-pick
+- git revert
