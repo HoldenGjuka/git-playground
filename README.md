@@ -32,3 +32,4 @@
 - git reset
 - git cherry-pick
 - git revert
+- git lens plugin (vscode)
