@@ -18,6 +18,9 @@
 7. git checkout origin/main
 > - Make experimental changes and commit them, and discard by switching to another branch or use the switch command to save the commits to a new branch. (Detached head)
 8. git switch -c \[newbranchname]
+9. git reset HEAD --hard
+10. git clean -fd
+> - Resets local workspace to last commit, cleans out added files
 
 
 ## Notes:
