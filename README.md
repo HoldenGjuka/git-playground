@@ -20,7 +20,7 @@
 8. git switch -c \[newbranchname]
 9. git reset HEAD --hard
 10. git clean -fd
-> - Resets local workspace to last commit, cleans out added files
+> - Operations 9 and 10 resets local workspace to last commit, cleans out added files
 
 
 ## Notes:
